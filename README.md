@@ -16,7 +16,7 @@ This is **Version 1**, and it currently supports **Version 1 QR codes (21x21 mod
 
 ## Future Improvements
 - **Fixing bugs in larger QR code versions**
-- **Optimizing encoding and error correction**
+- **Adding GUI interface**
 - **Adding more customization options**
 
 ## Usage Guide
@@ -26,6 +26,8 @@ This is **Version 1**, and it currently supports **Version 1 QR codes (21x21 mod
    git clone https://github.com/catab60/qr_code.git
    cd qr_code
    ```
+2. Edit the script's starting variables to match your desired output.
+   
 3. Run the script:
    ```bash
    python qr_code.py
